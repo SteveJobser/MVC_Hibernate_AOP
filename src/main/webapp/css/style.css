@@ -1,0 +1,10 @@
+.all {
+    font-size:36px;
+    text-align:left;
+    color:#fff
+}
+
+.all .all_employee {
+    display: block;
+    color: red;
+}
